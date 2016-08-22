@@ -7,3 +7,4 @@
 - [AngularJS Boston GraphQL demo](https://github.com/robzhu/graphql-demo)
 - [Hello World example on angular2-apollo repository](https://github.com/apollostack/angular2-apollo/tree/master/examples/hello-world)
 - [From "GraphQL and the amazing Apollo Client" blogpost by Gerard Sans](https://github.com/gsans/todo-angular2)
+- [Basic Typescript Apollo Server](https://github.com/DxCx/webpack-apollo-server)
